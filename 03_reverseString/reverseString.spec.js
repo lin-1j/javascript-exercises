@@ -16,5 +16,3 @@ describe('reverseString', () => {
     expect(reverseString('')).toEqual('')
   })
 });
-
-// ['h', 'e', 'l', 'l', 'o']
